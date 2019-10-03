@@ -11,3 +11,5 @@ intellij IDEA 2017<br/>
 
 二.项目简单使用：<br/>
 1.IDEA配置jdk，maven等，之后就可以实现了。<br/>
+
+work文档也在里面
